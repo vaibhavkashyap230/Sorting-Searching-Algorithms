@@ -16,10 +16,6 @@ public class Solution
 	        {
 	            a[i] = sc.nextInt();
 	        }
-	        if(n==1)
-	        {
-	        	System.out.println(a[0]);
-	        }
 	        int s=0,e=n-1;
 	        while(s<=e)
 	        {
